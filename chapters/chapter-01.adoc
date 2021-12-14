@@ -1,16 +1,41 @@
 // Start each chapter with its title.
-== First Chapter
+== First Chapter: nothing is actually happening
 
-This is the first chapter.
-It includes some highlighted source code:
+December, 7th 2021. Day 1: 
 
-[source,go,highlight=5-7]
-----
-package main
+I've already spent a few days trying to get the project running, but this is day one of writing about it. 
+Choosing the "right" tools, choosing the "right" tutorials and trying to not get lost learning all these other things I now know I don't know.
+I'm at a mall, I've read an article about "How to write a book", I've decided to try this new tool and learn how to write a book while learning how to develop my app.
+Just like an efficient programmer, two things done at once.
+Well, except that while I'm writing this I'm not actually coding.
 
-import "fmt"
+Note to self: One thing I've noticed it that while trying to focus on one thing, that one thing becomes many things you could focus on.
 
-func main() {
-    fmt.Println("Hello world!")
-}
-----
+I'm now at the frontend setup (https://play.kotlinlang.org/hands-on/Full%20Stack%20Web%20App%20with%20Kotlin%20Multiplatform/04_Frontend_Setup) and this is where it got messy.
+What to configure, why, should I skip this?
+It's quite annoying to be given some code to just paste and expect it to run and spend some time trying to understand it, I just can't say "I'll figure out what this is doing later".
+
+
+December, 9th 2021. Day 2:
+
+Went to Lisbon, sitting down at Padaria Portuguesa.
+After some procastination, looking at stocks and pretending to be an investor, committed to working on the project I actually wan't to work on. 
+Back to learning Kotlin and building a website.
+
+
+December, 13th 2021. Day 3:
+There I was following the tutorial, didn't copy paste the code, wrote it all by myself. 
+Then it wasn't running. 
+Errors, anod not those that you can search on google.
+Errors saying that a certain word doesn't exist.
+Looked at the tutorial, all matched.
+Deleted my code, copy pasted the code from the tutorial, all matched.
+WTF?!
+Felt like I don't know enough about this, I don't know what's going on here.
+Started looking at tutorials for Kotlin basics.
+After discussing this with a friend, he mentioned "use google of course".
+But this error didn't feel like something I could google, or maybe I could but I wouldn't go anywhere.
+But then it came, check github, check the final version of the tutorial and you can probably see where the error is.
+Turns out, the tutorial had errors. 
+I've fixed them and I had the website running so that I could play with it and try to understand what each component was doing.
+
